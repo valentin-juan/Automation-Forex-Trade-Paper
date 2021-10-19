@@ -1,4 +1,4 @@
-# Automation-Forex-Trade-Papper
+# Automation-Forex-Trade-Paper
 
 @Authors: Juan Valentin and João Sandri
 
